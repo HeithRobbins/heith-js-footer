@@ -1,0 +1,25 @@
+{
+  "name": "heith-js-footer",
+  "version": "0.1.0",
+  "description": "This module for a dynamic footer to be generated for JS applications with and updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeithRobbins/heith-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Heith Robbins <heith.robbins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeithRobbins/heith-js-footer/issues"
+  },
+  "homepage": "https://github.com/HeithRobbins/heith-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
